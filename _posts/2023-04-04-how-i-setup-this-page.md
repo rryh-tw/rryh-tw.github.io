@@ -2,6 +2,8 @@
 layout: post
 title: 如何建置此網站（Jekyll + Cirpy theme + Github page）
 date: '2023-04-04 02:30:26 +0800'
+categories: [其他]
+tags: [jekyll]
 ---
 ## Step 1: 跟著[Jekyll](https://jekyllrb.com/docs/)官方文件把環境裝一裝
 我是使用Mac，可以看到第一步驟有個[prerequisites](https://jekyllrb.com/docs/installation/)，雖然mac內建ruby，但官方推薦安裝他們指定的版本。
