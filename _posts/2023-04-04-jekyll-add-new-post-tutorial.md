@@ -18,3 +18,14 @@ bundle
 ```shell
 bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
 ```
+3. 本地測試
+```shell
+bundle exec jekyll s
+```
+4. 更新到github上
+```
+bundle
+git add .
+git commit -m "add post"
+git push
+```
